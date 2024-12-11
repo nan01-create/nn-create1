@@ -1,0 +1,64 @@
+.picture-1{
+    width: 1366px;
+    background-color: blueviolet;
+}
+.wrap-1{
+    width:1000px;
+    margin: 0 auto;
+}
+.p-1{
+    width: 100%;
+    overflow: hidden;
+}
+.title-1{
+    width: 1366px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.text-1{
+    height: 100px;
+    line-height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:50px;
+    color: white;
+    margin-left: 30%;
+}
+/* 轮播图开始 */
+.banner{
+    width: 100%;
+    height: 400px;
+    background-color: blueviolet;
+}
+.b-l{
+    width: 230px;
+    height: 400px;
+    overflow: hidden;
+    float: left;
+}
+.b-r{
+    width: 230px;
+    height: 400px;
+    overflow: hidden;
+    float: right;
+}
+.banner-p{
+    width: 500px;
+    height: 400px;
+    margin: 20px;
+    margin-left: 250px;
+    overflow: hidden;
+}
+.b-p{
+    width:500px; 
+    height: 400px;
+    object-fit: cover;
+    overflow: hidden;
+}
+.b-c{
+    width: 2500px;
+    height: 400px;
+}
+.b-c li{
+    float: left;
+}
+/* 轮播图结束 */

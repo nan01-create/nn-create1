@@ -1,0 +1,96 @@
+.pinpai-1{
+    width: 1000px;
+    height: 270px;
+    margin: 0 auto;
+}
+.pinpai-1 img{
+    width: 100%;
+}
+.pinpai-1{
+    width: 1000px;
+    height: 270px;
+    margin: 0 auto;
+}
+.pinpai-1 img{
+    width: 100%;
+}
+.final{
+    height: 65px;
+    width: 1000px;
+    margin: 0 auto;
+}
+.f-l{
+    float: left;  
+}
+.f-l li{
+    float: left;
+    margin-top: 20px;
+    padding-right: 80px;   
+    
+}
+.f-l li a{
+    font-size: 18px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.final li:hover a{
+    color: orange;
+}
+.final-nar{
+    width: 1000px;
+    height: 120px;
+    margin: 0 auto;
+    position: relative;
+}
+.final-1{
+    margin-left: 50px;
+    position: absolute;
+}
+.final-2{
+    margin-left: 300px;
+    position: absolute;
+}
+.final-3{
+    margin-left: 550px;
+    position: absolute;
+}
+.final-4{
+    margin-left: 750px;
+    position: absolute;
+}
+.final-nar li{
+    padding-bottom: 10px;
+}
+.final-nar li a{
+    font-size: 10px;
+    color: black;
+}
+.final-nar li:hover a{
+    color: orange;
+}
+.final-bar{
+    width: 1000px;
+    margin: 0 auto;
+}
+.final-bar ul{
+    float: left;
+}
+.final-bar ul li{
+    float: left;
+    margin-left: 20px;
+}
+.final-bar ul li a{
+    font-size: 10px;
+    color:gray;
+}
+.final-bar li:hover a{
+    color: black;
+}
+.final-ques{
+    width: 1000px;
+    margin: 0 auto;
+}
+.final-ques img{
+    height: 100%;
+    overflow: hidden;
+}

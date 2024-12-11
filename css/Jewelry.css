@@ -1,0 +1,20 @@
+.banner-ss{
+    width: 1000px;
+    margin: 0 auto;
+    height: 400px;
+}
+.b-s1{
+    width: 500px;
+    height: 400px;
+    float: left;
+}
+.b-s2{
+    width: 500px;
+    height: 400px;
+    float: right;
+}
+.banner-ss img{
+    width: 490px;
+    height: 400px;
+}
+
